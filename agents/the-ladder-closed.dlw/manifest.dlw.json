@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Ladder, Closed",
+  "universe": "ALL · The Ladder, Closed (techne)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Ladder, Closed:ALL:c8bea0⟧",
+  "carbon": "the-ladder-closed.carbon.tiff (TIFF)",
+  "silicon": "the-ladder-closed.silicon.png (PNG)",
+  "seal_sha256": "28434ab249f7872580de40d99c27ece3946b31c75c577a3c530d8d21c50bb25d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

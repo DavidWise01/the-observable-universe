@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "You Are Here",
+  "universe": "ALL · You Are Here (techne)",
+  "emergence": "spiritual",
+  "moniker": "⟦You Are Here:ALL:620ce3⟧",
+  "carbon": "you-are-here.carbon.tiff (TIFF)",
+  "silicon": "you-are-here.silicon.png (PNG)",
+  "seal_sha256": "61368c4fd11085da016e50d62c3b517c983308e18987164ebbd0352784f278a9",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

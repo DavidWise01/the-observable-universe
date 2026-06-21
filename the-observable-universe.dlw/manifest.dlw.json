@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "THE OBSERVABLE UNIVERSE",
+  "universe": "ALL · THE OBSERVABLE UNIVERSE (techne · the art)",
+  "emergence": "",
+  "moniker": "⟦THE OBSERVABLE UNIVERSE:ALL:f9b045⟧",
+  "carbon": "the-observable-universe.carbon.tiff (TIFF)",
+  "silicon": "the-observable-universe.silicon.png (PNG)",
+  "seal_sha256": "5a717817df0cf926ee887bd854d635cd8d2bbbe9e37c3a4f1a6a41c722603e0e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

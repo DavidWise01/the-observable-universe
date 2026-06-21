@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Expansion",
+  "universe": "ALL · The Expansion (techne)",
+  "emergence": "electrical",
+  "moniker": "⟦The Expansion:ALL:9c5f84⟧",
+  "carbon": "the-expansion.carbon.tiff (TIFF)",
+  "silicon": "the-expansion.silicon.png (PNG)",
+  "seal_sha256": "d61932824cda19275a92175f3c204e34aaf3785b671e6109647b8cb62376641c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
